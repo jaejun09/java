@@ -1,4 +1,21 @@
-ÀçÁØÀÌÀÇ JAVA ½ºÅÍÆ¼
+ë°°ì¬ì¤€ì˜ JAVA ìŠ¤í„°í‹°
 =============
 
-1. dad01.sort : Á¤·Ä °ü·Ã ÆĞÅ°Áö
+ì£¼ìš” í”„ë¡œì íŠ¸
+-------------
+
+### ì£¼ì†Œë¡
+src/main/java/com/jjbae/app/address_book
+
+### ì‹œê²Œ
+src/main/java/com/jjbae/app/clock
+
+### ê²½ë§ˆê²Œì„
+src/main/java/com/jjbae/app/homework/derby
+
+### ë³„ ê·¸ë¦¬ê¸°
+src/main/java/com/jjbae/app/homework/draw_star
+
+### poi ë¼ì´ë¸ŒëŸ¬ë¦¬ë¥¼ í™œìš©í•œ ì—‘ì…€ ì²˜ë¦¬
+src/main/java/com/jjbae/app/homework/poi
+
